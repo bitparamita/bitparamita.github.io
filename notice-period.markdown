@@ -41,7 +41,7 @@ title: Notice Period
 
 <script>
   function calculateDaysLeft() {
-    const lastWorkingDay = new Date("August 31, 2025");
+    const lastWorkingDay = new Date("August 29, 2025");
     const today = new Date();
     const timeDiff = lastWorkingDay - today;
     const daysLeft = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
