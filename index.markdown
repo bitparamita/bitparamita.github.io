@@ -6,7 +6,7 @@ layout: home
   <span class="inline-notice">
     (I am <a href="https://www.linkedin.com/in/{{site.linkedin_username }}/"
       target="_blank">#OpenToWork</a> & 
-    <a href="/notice-period.html">Serving Notice Period</a>)
+    <a href="/notice-period.html">Notice Period</a>)
   </span>
 </h1>
 

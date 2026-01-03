@@ -45,7 +45,7 @@ title: Notice Period
     const today = new Date();
     const timeDiff = lastWorkingDay - today;
     const daysLeft = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
-    return daysLeft;
+    return 90;
   }
 
   document.addEventListener("DOMContentLoaded", () => {
